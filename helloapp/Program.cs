@@ -7,6 +7,8 @@ namespace helloapp
         public static void Main(string[] args)
         {
             Hello();
+            greetWhite();
+            greetBlack();
         }
 
         private static void Hello()
